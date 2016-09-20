@@ -1,0 +1,2 @@
+# TipCalculator
+Calculates the Tip!
